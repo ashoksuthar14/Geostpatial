@@ -4,3 +4,4 @@ folium==0.14.0
 streamlit-folium==0.11.1
 streamlit-geolocation
 protobuf==4.25.3
+pillow
