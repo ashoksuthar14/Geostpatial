@@ -1,5 +1,5 @@
 streamlit==1.24.1
-googlemaps==4.10.0
+googlemaps
 folium==0.14.0
 streamlit-folium==0.11.1
 streamlit-geolocation==0.1.0
